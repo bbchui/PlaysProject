@@ -1,0 +1,21 @@
+{
+  "video": {
+    "url": "/ftl.mp4",
+    "description": "How to Pharah and Git Gud #hashtag @person #hashtag Yo guys check out sweet kill stream and the super awesome wombo combo...",
+    "date": "Yesterday",
+    "gameTitle": "Overwatch",
+    "author": {
+      "name": "CynikaL",
+      "avatar": "img/more.jpeg"
+    }
+  },
+  "comments": [{
+    "comment": "@Dunksta that's so unreal!",
+    "name": "Unicorn",
+    "img": "img/rod.jpeg"
+  }, {
+    "comment": "Chartreuse chia disrupt adaptogen, seitan typewriter air plant. Pinterest quinoa pok pok brooklyn green juice actually blue bottle af butcher squid jianbing gastropub enamel pin. Prism cloud bread sustainable direct trade street art, flannel messenger bag ethical irony. Gastropub adaptogen crucifix, marfa gochujang meditation listicle chambray sartorial messenger bag.",
+    "name": "Trollson",
+    "img": "img/suchuser.jpeg"
+  }]
+}
